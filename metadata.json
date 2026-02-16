@@ -1,0 +1,7 @@
+{
+  "name": "Ronnie Aslani Private Transport",
+  "description": "Premium 24/7 private transport and airport shuttle services serving North Dallas with an elite fleet of luxury vehicles.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
