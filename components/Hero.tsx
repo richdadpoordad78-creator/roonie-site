@@ -81,7 +81,9 @@ const Hero: React.FC = () => {
         </div>
         
         <p className="text-zinc-500 text-base sm:text-lg md:text-2xl font-light leading-relaxed max-w-2xl mb-12 md:mb-16 px-4 animate-in fade-in slide-in-from-bottom-8 duration-[1000ms] delay-300">
-          Elevating the standard of private transport through meticulous punctuality and a refined commitment to your privacy.
+         Private transport service operated by Ronnie Aslani providing luxury rides across North Dallas.
+Available 24/7 for airport transfers, private trips, and event transportation.
+Our fleet includes premium SUVs and party buses ensuring safe, reliable, and punctual service.
         </p>
         
         <div className="flex flex-col sm:flex-row items-center gap-6 md:gap-10 animate-in fade-in slide-in-from-bottom-6 duration-[1200ms] delay-500">
